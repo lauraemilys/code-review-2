@@ -10,60 +10,54 @@
 <body>
   <div class="container">
     <h1>QUIZ:What Coding Language Should You Learn First?</h1>
+      <form id="questions">
+      <h2>Do you like Pina Coladas?</h2>
+      <select class="form-control" id="pinacolada">
+        <option></option>
+        <option>Yes</option>
+        <option>No</option>
+      </select>
 
-    <h2>Do you like Pina Coladas?</h2>
-    <form id="questions">
-    <select class="form-control" id="pinacolada">
-      <option>Yes</option>
-      <option>No</option>
-    </select>
+      <h2>...and getting caught in the rain?</h2>
+      <select class="form-control" id="rain">
+        <option></option>
+        <option>Yes</option>
+        <option>No</option>
+      </select>
 
-    <h2>...and getting caught in the rain?</h2>
-    <select class="form-control" id="rain">
-      <option>Yes</option>
-      <option>No</option>
-    </select>
+      <h2>I'm a little bit...</h2>
+      <div class="radio">
+        <label>
+          <input type="radio" name="littleBit" value="country" checked>
+          Country
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="littleBit" value="rocknroll">
+          Rock & Roll
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="littleBit" value="neither">
+          Neither
+        </label>
+      </div> 
+      <div class="form-group">
+        <label for="born"><h2>When were you born?</h2></label>
+        <input id="born" class="form-control" type="date">
+      </div>
 
-    <h2>I am a little bit...</h2>
-
-    <div class="radio">
-      <label type="radio" name="littlebit" value="country">
-        Country
-      </label>
-    </div>
-
-    <div class="radio">
-      <label type="radio" name="littlebit" value="rocknroll">
-        Rock & Roll
-      </label>
-    </div>
-
-    <div class="radio">
-      <label type="radio" name="littlebit" value="neither">
-        Neither
-      </label>
-    </div> 
-
-    <div class="form-group">
-      <label for="born">When were you born?</label>
-      <input id="born" class="form-control" type="date">
-    </div>
-
-    <h2>Right now I would most like to be...</h2>
-    <form id="questions">
-    <select class="form-control" id="pinacolada">
-      <option>On a beach</option>
-      <option>Yodeling on a mountaintop</option>
-      <option>Skydiving</option>
-      <option>In my PJs on the couch</option>
-    </select>
+      <h2>Right now I would most like to be...</h2>
+      <select class="form-control" id="pinacolada">
+        <option></option>
+        <option>On a beach</option>
+        <option>Yodeling on a mountaintop</option>
+        <option>Skydiving</option>
+        <option>In my PJs on the couch</option>
+      </select>
     </form>
-  
-    <div id="under-6">
-      <h1>Sorry, we don't recommend learning code until you know how to read.</h1>
 
-      <p>Come back when you hit first grade!</p>
-    </div>
-  </div>
 </body>
 </html>
