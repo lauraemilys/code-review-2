@@ -1,8 +1,8 @@
-# _{Code Review 2}_
+# _Code Review 2_
 
-#### _{This project contains a webpage that quizzes users to find out what coding language they should learn}_
+#### _This project contains a webpage that quizzes users to find out what coding language they should learn_
 
-#### By _**{Laura Shapiro}**_
+#### By _**Laura Shapiro**_
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{When you load this webpage it will take you to a quiz that will ask various questions to determine what coding language you should learn first. It is a fun and silly quiz with zero research behind the questions asked. Nevertheless, if you complete the quiz it will tell you what language you should learn first}_
+_When you load this webpage it will take you to a quiz that will ask various questions to determine what coding language you should learn first. It is a fun and silly quiz with zero research behind the questions asked. Nevertheless, if you complete the quiz it will tell you what language you should learn first_
 
 ## Setup/Installation Requirements
 
@@ -29,8 +29,8 @@ _{When you load this webpage it will take you to a quiz that will ask various qu
 
 ## License
 
-_{Feel free to contact me for questions or concerns and feel free to contribute to the project. Standard MIT license applies}_
+_Feel free to contact me for questions or concerns and feel free to contribute to the project. Standard MIT license applies_
 
 ## Contact Information
 
-_{You can email me at lauraemilys323@gmail.com}_
+_You can email me at lauraemilys323@gmail.com_
