@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.jumbotron {
+  color:navy;
+  background-color:lightgray;
+}
+
+#questions {
+  margin: 70px;
+  border: 10px solid navy;
+  padding: 50px;
+  background-color: lightgray;
+}
