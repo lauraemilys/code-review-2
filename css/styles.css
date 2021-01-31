@@ -9,11 +9,22 @@ h2 {
 .jumbotron {
   color:navy;
   background-color:lightgray;
+  margin: 30px;
+  border: 5px solid navy;
+  padding: 10px;
 }
 
 #questions {
-  margin: 70px;
-  border: 10px solid navy;
-  padding: 50px;
   background-color: lightgray;
+  margin: 50px;
+  border: 5px solid navy;
+  padding: 20px;
+}
+
+.radio {
+  text-align: center;
+}
+
+.form-group {
+  text-align: center;
 }
